@@ -1,8 +1,4 @@
-<<<<<<< HEAD
 #include "../../Includes/Dominios/codigo.hpp"
-=======
-#include "codigo.hpp"
->>>>>>> refs/remotes/origin/main
 #include <ctype.h>
 
 /**
