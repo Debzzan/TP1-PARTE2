@@ -4,7 +4,7 @@
             "name": "Linux",
             "includePath": [
                 "${workspaceFolder}/**",
-                "/home/debzzan/MEGA/projects/TP1/TP1-P2/TP1-PARTE2/Includes"
+                "../TP1-PARTE2"
             ],
             "defines": [],
             "compilerPath": "/usr/bin/g++",
