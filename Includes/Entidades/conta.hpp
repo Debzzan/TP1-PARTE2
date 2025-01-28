@@ -1,5 +1,6 @@
 #ifndef CONTA_HPP_INCLUDED
 #define CONTA_HPP_INCLUDED
+<<<<<<< HEAD
 #include "../Dominios/avaliacao.hpp"
 #include "../Dominios/codigo.hpp"
 #include "../Dominios/data.hpp"
@@ -9,6 +10,11 @@
 #include "../Dominios/nome.hpp"
 #include "../Dominios/senha.hpp"
 #include <stdexcept>
+=======
+#include "../dominios/codigo.hpp"
+#include "../dominios/senha.hpp"
+
+>>>>>>> refs/remotes/origin/main
 /**
  * @brief Classe Conta.
  * 
@@ -41,7 +47,11 @@ public:
     /**
      * @brief Define a senha da conta.
      * 
+<<<<<<< HEAD
      * @param senha Instância da classe `Senha` representando a senha.
+=======
+     * @param horario Instância da classe `Senha` representando a senha.
+>>>>>>> refs/remotes/origin/main
      */
     void setPass(const Senha& pass);
     

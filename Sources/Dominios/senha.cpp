@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 #include "../../Includes/Dominios/senha.hpp"
+=======
+#include "senha.hpp"
+>>>>>>> refs/remotes/origin/main
 
 /**
  * Classe Senha

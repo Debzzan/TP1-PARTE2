@@ -1,6 +1,7 @@
 #ifndef ATIVIDADE_HPP_INCLUDED
 #define ATIVIDADE_HPP_INCLUDED
 
+<<<<<<< HEAD
 #include "../TP1-PARTE2/Includes/Dominios/avaliacao.hpp"
 #include "../TP1-PARTE2/Includes/Dominios/codigo.hpp"
 #include "../TP1-PARTE2/Includes/Dominios/data.hpp"
@@ -9,6 +10,15 @@
 #include "../TP1-PARTE2/Includes/Dominios/hora.hpp"
 #include "../TP1-PARTE2/Includes/Dominios/nome.hpp"
 #include "../TP1-PARTE2/Includes/Dominios/senha.hpp"
+=======
+#include "../dominios/data.hpp"
+#include "../dominios/dinheiro.hpp"
+#include "../dominios/duracao.hpp"
+#include "../dominios/hora.hpp"
+#include "../dominios/nome.hpp"
+#include "../dominios/codigo.hpp"
+#include "../dominios/avaliacao.hpp"
+>>>>>>> refs/remotes/origin/main
 
 /**
  * @brief Classe Atividade.

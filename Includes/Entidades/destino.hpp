@@ -1,6 +1,7 @@
 #ifndef DESTINO_HPP_INCLUDED
 #define DESTINO_HPP_INCLUDED
 
+<<<<<<< HEAD
 #include "../TP1-PARTE2/Includes/Dominios/avaliacao.hpp"
 #include "../TP1-PARTE2/Includes/Dominios/codigo.hpp"
 #include "../TP1-PARTE2/Includes/Dominios/data.hpp"
@@ -9,6 +10,12 @@
 #include "../TP1-PARTE2/Includes/Dominios/hora.hpp"
 #include "../TP1-PARTE2/Includes/Dominios/nome.hpp"
 #include "../TP1-PARTE2/Includes/Dominios/senha.hpp"
+=======
+#include "../dominios/nome.hpp"
+#include "../dominios/avaliacao.hpp"
+#include "../dominios/codigo.hpp"
+#include "../dominios/data.hpp"
+>>>>>>> refs/remotes/origin/main
 #include <stdexcept>
 using namespace std;
 
