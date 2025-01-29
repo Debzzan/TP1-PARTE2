@@ -52,6 +52,7 @@ public:
      */
     Senha getPass() const;
 
+
 };
 /**
  * @brief Define o código da conta.

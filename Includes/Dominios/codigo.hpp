@@ -53,6 +53,7 @@ public:
      * @return string O valor do codigo.
      */
     std::string getValor() const;
+
 };
 
 /**
